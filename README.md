@@ -24,3 +24,8 @@ The participants who will complete the course will be provided a _certificate_ o
 + [Resources](https://github.com/Programming-Club-Ahmedabad-University/CP101/blob/master/Resources.md)
 + [Schedules](https://github.com/Programming-Club-Ahmedabad-University/CP101/blob/master/schedule.md)
 + [Solutions to contests held](https://github.com/Programming-Club-Ahmedabad-University/CP101/tree/master/contest_solutions)
+
+
+[![Stargazers repo roster for @Programming-Club-Ahmedabad-University/CP101](https://reporoster.com/stars/Programming-Club-Ahmedabad-University/CP101)](https://github.com/Programming-Club-Ahmedabad-University/CP101/stargazers)
+
+[![Forkers repo roster for @Programming-Club-Ahmedabad-University/CP101](https://reporoster.com/forks/Programming-Club-Ahmedabad-University/CP101)](https://github.com/Programming-Club-Ahmedabad-University/CP101/network/members)
